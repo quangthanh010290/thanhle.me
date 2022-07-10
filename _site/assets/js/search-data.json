@@ -1,0 +1,38 @@
+{"0": {
+    "doc": "Bluetooth keyboard and mouse emulation",
+    "title": "Bluetooth keyboard  and mouse emulation",
+    "content": ". | [Raspberry]Bluetooth keyboard and mouse emulation | . ",
+    "url": "http://0.0.0.0:4000/docs/ui-components/%5BRaspberry%5DBluetouth%20keyboard%20%20and%20mouse%20emulation.html#bluetooth-keyboard--and-mouse-emulation",
+    "relUrl": "/docs/ui-components/%5BRaspberry%5DBluetouth%20keyboard%20%20and%20mouse%20emulation.html#bluetooth-keyboard--and-mouse-emulation"
+  },"1": {
+    "doc": "Bluetooth keyboard and mouse emulation",
+    "title": "Bluetooth keyboard and mouse emulation",
+    "content": " ",
+    "url": "http://0.0.0.0:4000/docs/ui-components/%5BRaspberry%5DBluetouth%20keyboard%20%20and%20mouse%20emulation.html",
+    "relUrl": "/docs/ui-components/%5BRaspberry%5DBluetouth%20keyboard%20%20and%20mouse%20emulation.html"
+  },"2": {
+    "doc": "About",
+    "title": "About",
+    "content": "Hi, I’m Thanh 👋 . Welcome to my website, where I write about Linux, Networking, IoT, Robotic, optimization, and more! . ",
+    "url": "http://0.0.0.0:4000/about/",
+    "relUrl": "/about/"
+  },"3": {
+    "doc": "Buttons",
+    "title": "Buttons",
+    "content": ". | Buttons demo | . ",
+    "url": "http://0.0.0.0:4000/docs/ui-components/button.html",
+    "relUrl": "/docs/ui-components/button.html"
+  },"4": {
+    "doc": "Home",
+    "title": "Home",
+    "content": "This is the basesesrtrwt Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at jekyllrb.com . You can find the source code for Minima at GitHub: [jekyll12][jekyll-organization] / minima . You can find the source code for Jekyll at GitHub: [jekyll][jekyll-organization] / jekyll . ",
+    "url": "http://0.0.0.0:4000/",
+    "relUrl": "/"
+  },"5": {
+    "doc": "UI Components",
+    "title": "UI Components",
+    "content": "To make it as easy as possible to write documentation in plain Markdown, most UI components are styled using default Markdown elements with few additional CSS classes needed. ",
+    "url": "http://0.0.0.0:4000/docs/ui-components",
+    "relUrl": "/docs/ui-components"
+  }
+}
